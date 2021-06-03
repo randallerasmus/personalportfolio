@@ -14,7 +14,7 @@ a{
 section{
     width:100%;
     height:95vh;
-    background-image:url("../personalportfolio/personalimage.jpg");
+    background-image:url("../personalportfolio/bg.png");
     background-size:cover;
     background-repeat:no-repeat;
     position: relative;
@@ -183,7 +183,7 @@ button:active{
 }
 .services-text p:nth-child(3){font-family:calibri;
     color:#7e7d7d;
-    font-size:10px ;}
+    font-size:15px ;}
 .services-text{
     width: 500px;
     margin:50px 0px;
@@ -208,13 +208,13 @@ button:active{
 }
 
 .box-1{
-    background-image:url("../personalportfolio/personalimage.jpg");
+    background-image:url("../personalportfolio/services-1.png");
 }
 .box-2{
-    background-image:url("../personalportfolio/personalimage.jpg");
+    background-image:url("../personalportfolio/services-2.png");
 }
 .box-3{
-    background-image: url("../personalportfolio/personalimage.jpg");
+    background-image: url("../personalportfolio/servies-3.png");
 }
 .box-1 span,
 .box-2 span,
@@ -261,7 +261,7 @@ button:active{
     height:280px;
     background-size:cover;
     background-repeat:no-repeat;
-    background-image: url("../personalportfolio/personalimage.jpg");
+    background-image: url("../personalportfolio/project in your mind.png");
     display: flex;
     flex-direction: column;
     justify-content: center;
